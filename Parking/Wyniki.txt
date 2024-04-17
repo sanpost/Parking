@@ -1,0 +1,3 @@
+Liczba wszystkich miejsc na parkingu: 45
+Liczba wolnych miejsc na parkingu: 45
+Liczba zajętych miejsc na parkingu: 0

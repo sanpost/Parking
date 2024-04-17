@@ -1,0 +1,3 @@
+C:/Users/sylwi/CLionProjects/Parking01/cmake-build-debug/CMakeFiles/Parking.dir
+C:/Users/sylwi/CLionProjects/Parking01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sylwi/CLionProjects/Parking01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
